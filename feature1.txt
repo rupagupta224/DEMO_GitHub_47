@@ -1,0 +1,7 @@
+This file was created in the feature1 branch.
+
+The purpose of this file is to demonstrate how branching works in Git. A new branch named "feature1" was created, and this file was added and committed in that branch.
+
+After committing the changes, the feature1 branch was merged into the main branch successfully.
+
+This task helps in understanding Git branching and merging concepts.
